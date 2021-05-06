@@ -21,7 +21,7 @@ html, body {
 h1.title {
   font-size: 64px;
   font-weight: bold;
-  color: #A31F34;
+  color: #0084C6;
   margin: 0;
   display: block;
   float: left; }
@@ -60,7 +60,7 @@ h1.title {
 .score-container, .best-container {
   position: relative;
   display: inline-block;
-  background: #8A8B8C;
+  background: #3883A8;
   padding: 15px 25px;
   font-size: 20px;
   height: 25px;
@@ -108,7 +108,7 @@ p {
   line-height: 1.65; }
 
 a {
-  color: #A31F34;
+  color: #3883A8;
   font-weight: bold;
   text-decoration: underline;
   cursor: pointer; }
@@ -162,7 +162,7 @@ hr {
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
-  background: #8A8B8C;
+  background: #0D6691;
   border-radius: 6px;
   width: 500px;
   height: 500px;
